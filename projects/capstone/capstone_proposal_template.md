@@ -4,6 +4,25 @@ Jonatan Dellagostin
 February 31st, 2018
 
 ## Proposal
+
+Surface electromyography (sEMG) is the temporal and
+spatial superposition of faint b
+ioelectrical signals generated
+by the muscle nerve cells during muscle contraction [
+1]. It
+is collected and recorded through the skin surface elec-
+trodes. Compared to conventional EMG signal acquisition
+that requires inserting a needle
+electrode into muscle tissue,
+the sEMG signal has the advantages of being noninvasive
+and providing the convenience of collection. The sEMG
+signal from the arm has been used in human-computer
+interaction, rehabilitation trai
+ning, and artificial prosthesis
+[2
+–
+5]. Because it can indirectly reflect the gestures of the
+person, it has extensive application and research value 
 NinaPro - Non-Invasive Adaptive Hand Prosthetics
 Daily life of hand amputees can be poor compared to what it was before the amputation. The state of the art in hand prosthetics, at the time of writing, does not offer more than 2-3 degrees of freedom and a very coarse control of the force, as there is no haptic feedback. Patients interface with the prothesis via surface electromyography (sEMG), recorded using surface electrodes. Learning how to control the device through many input sEMG channels is a long and difficult process for most patients, that therefore settles for limited and very simplified movements (open/close). This contrasts with recent advances in mechatronics, thanks to which mechanical hands gifted with many degrees-of-freedom and force control are being built. There is a need for prosthetic hands able to naturally reproduce a wide amount of movements and forces, while at the same time requiring a lower effort in learning how to control hand postures. This goes beyond mechatronic dexterity: the real challenge is how to provide patients with a cheap, easy and natural way of controlling the prosthesis. 
 The goal of this project is to develop a family of algorithms able to significantly augment the dexterity, and reduce the training time, for sEMG controlled prosthesis. By testing our findings on a very large collection of data, this project will pave the way for a new generation of prosthetic hands. The work will be organized along the following four themes.
